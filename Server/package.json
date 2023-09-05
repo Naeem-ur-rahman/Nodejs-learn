@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "First Server with Node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Naeem ur Rahman Sajid",
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.1"
+  }
+}

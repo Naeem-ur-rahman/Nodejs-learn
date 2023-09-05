@@ -1,0 +1,14 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Express framework learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "NuRs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
